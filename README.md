@@ -1,4 +1,4 @@
-# sunflowerApp :sunflower:
+# 1.4 SunflowerApp :sunflower:
 
 ## Descripcion
 En este repositorio encontraremos una pequeña aplicacion en la que podremos consultar informacion sobre difernetes tipos de plantas y arboles frutales, basada en Jetpack Compose
